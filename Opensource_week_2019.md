@@ -3,8 +3,8 @@ Welcome to the Pyladies Kampala open source guidelines for 2019. We are excited 
 of contributing to open source.
 
 Last year, we had a similar event, the open source sprint. This year its going to be yet another week
-of working on open source. Staring 9 - 14th December. We will work remotely for 9th - 13th and on 14th,
-we will meet at outbox to hack on the las day.
+of working on open source. Starting 9 - 14th December. We will work remotely for 9th - 13th and on 14th,
+we will meet at outbox to hack on the last day.
 
 # Remote collaboration
 
@@ -16,7 +16,7 @@ We will use slack, whatsap and IRC.
 
 # Who should participate
 
-This sprint welcomes experienced and beginner developers from the pyladies Kampala community. For remote, we will open up to other members too. You can tell us your progress and ask questions in the above channels.
+This sprint welcomes any python experienced and beginner developers from Kampala that ia a women. For remote, we will open up to men too. You can tell us your progress and ask questions in the above channels.
 
 # What is open source and how do you contribute
 
