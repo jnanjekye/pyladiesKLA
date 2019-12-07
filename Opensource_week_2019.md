@@ -10,9 +10,9 @@ we will meet at outbox to hack on the last day.
 
 We will use slack, whatsap and IRC.
 
-*IRC:* pyladieskampala on freenode
-*slack:* pyladieskla
-*Whatsap:* Email your number to kampala@pyladies.com to be added to the whatsap group. Due to CoC violations in the past, only *women* will be added to the group.
+*IRC:* pyladieskampala on freenode \
+*slack:* pyladieskla \
+*Whatsap:* Email your number to kampala@pyladies.com to be added to the whatsap group. Due to CoC violations in the past, only *women* will be added to the group.\
 
 # Who should participate
 
